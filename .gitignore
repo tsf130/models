@@ -1,0 +1,12 @@
+# PyCharm
+.idea/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Dataset (do not upload)
+data/
+
+# Logs
+*.log
