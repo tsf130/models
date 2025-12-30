@@ -68,6 +68,9 @@ python svm_train.py
 
 若 models/svm_char.pkl 文件已存在，可跳过此步骤。
 
+训练模型下载地址为：https://github.com/tsf130/models
+
+
 ### 4.2 模型测试与评估
 
 运行以下命令对模型性能进行评估：
